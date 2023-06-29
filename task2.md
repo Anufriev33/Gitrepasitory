@@ -4,8 +4,7 @@
 
 * *  **git merge branch_name** - Слияния указаной ветки с текущей;
 
-* * **git branch -d branch_name** - удаляет выбраную ветку;
-
+* * **git branch -d branch_name** - удаление выбраной ветки;
  
 ### **Создание веток** 
 
