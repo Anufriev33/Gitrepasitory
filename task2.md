@@ -1,5 +1,5 @@
-# Первоe занятие по git 
-git config -- global user.email "roma.anufriev.90@mail.ru"
+## Второе занятие по git 
+
 
 * * git init* -команда, инициализирующая репозиторий;
 
